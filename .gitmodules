@@ -1,0 +1,4 @@
+[submodule "blog.mistry.cloud/public"]
+	path = blog.mistry.cloud/public
+	url = me@pritesh.net:Pritesh1980/pritesh1980.github.io.git
+	branch = master
